@@ -1,5 +1,7 @@
+#se importa el archivo que contiene las funciones
 from nomina import(pago_tiempo_competo, pago_por_horas, pago_por_comision, calcular_deducciones, calcular_auxilio, calcular_pago_neto)
 
+#variables 
 SMLV= 1300000
 AUXILIO_TRANSPORTE= 162000
 TOPE_AUXILIO= SMLV* 2
